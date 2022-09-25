@@ -1,6 +1,6 @@
 #A-Frame STL Exporter component (updated version)
 
-<img alt="Screenshot" src="img/screenshot.jpg" width="600">
+<img alt="Screenshot" src="img/screenshotupdated.jpg" width="600">
 
 ### **Description / Rationale**
 This is a small project, which demonstrates the working and updated version of AFrame STL Exporter Component, created by <a href="https://github.com/hassadee/aframe-stl-exporter-component">Hassadee Pimsuwan</a>, which is compatible with AFrame ver 1.3. Unfortunately latest version of the component is old and not compatible. 
