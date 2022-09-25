@@ -9,6 +9,8 @@ This project also demonstrates the major functionality of the component, which i
 - Exporting several primitives (as binary and string)
 - Exporting 3D model (GLTF/GLB to binary or string).
 
+Some small corrections were also made to view STL files properly.
+
 ### **Instructions**
 To see the project at work just copy the repository to your local server and explore all the functionality. For reference, please see original <a href="https://github.com/hassadee/aframe-stl-exporter-component">AFrame STL Exporter Component.</a>
 
