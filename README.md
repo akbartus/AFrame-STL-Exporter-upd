@@ -1,4 +1,4 @@
-#A-Frame STL Exporter component (updated version)
+# A-Frame STL Exporter component (updated version)
 
 <img alt="Screenshot" src="img/screenshotupdated.jpg" width="600">
 
